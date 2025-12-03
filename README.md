@@ -76,16 +76,15 @@ Analytical techniques applied include:
 - Target marketing and personalization strategies
 
 ---
-## Repository Structure
 
 
 
 
 
-                                                                                                                                          ## Author
-                                                                                                                                          **Sumit Pant**  
-                                                                                                                                          Email: sumitpant2004@gmail.com  
-                                                                                                                                          GitHub: https://github.com/sumitpant13  
-                                                                                                                                          LinkedIn: https://linkedin.com/in/sumitpant13  
+                                                                                            ## Author
+                                                                                            **Sumit Pant**  
+                                                                                            Email: sumitpant2004@gmail.com  
+                                                                                            GitHub: https://github.com/sumitpant13  
+                                                                                            LinkedIn: https://linkedin.com/in/sumitpant13  
 
 
